@@ -17,7 +17,7 @@
     <section class="parte dois">
         <h1>to sem nada para fala</h1>
 
-   <img src="pato.gif.gif" alt="srcset">
+   <img src="penguin.gif" alt="srcset">
         
         
   </section>
